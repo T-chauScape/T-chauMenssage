@@ -29,7 +29,8 @@ services:
       - "8080:8080"
     restart: always
     depends_on:
-      - postgres
+      postgres:
+        condition: service_healthy
  frontend:
     container_name: frontend
     build:
