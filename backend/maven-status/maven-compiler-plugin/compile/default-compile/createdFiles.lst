@@ -1,0 +1,4 @@
+com/tchau/message/models/entities/Users.class
+com/tchau/message/models/entities/BaseEntity.class
+com/tchau/message/controller/UserController.class
+com/tchau/message/TchauMessageApplication.class

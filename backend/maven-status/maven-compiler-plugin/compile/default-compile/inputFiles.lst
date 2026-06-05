@@ -1,0 +1,4 @@
+/app/src/main/java/com/tchau/message/TchauMessageApplication.java
+/app/src/main/java/com/tchau/message/controller/UserController.java
+/app/src/main/java/com/tchau/message/models/entities/BaseEntity.java
+/app/src/main/java/com/tchau/message/models/entities/Users.java
